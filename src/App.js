@@ -51,7 +51,7 @@ function App() {
               <Search_Donors></Search_Donors>
 
             </Route>
-            <Route exact path='/'>
+            <Route exact path='/Software-Lab-3'>
               <Home></Home>
             </Route>
 
